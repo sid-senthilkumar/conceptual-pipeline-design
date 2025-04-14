@@ -1,7 +1,7 @@
 # Conceptual Design: Functional Genomics Analysis Pipeline
 
-**Author:** Lynn Cole
-**Date:** October 26, 2023
+**Author:** Sid Senthilkumar
+**Date:** April 14, 2025
 **Context:** Proposed analysis workflow for high-throughput functional genomics screens (e.g., CRISPR or TnSeq) at Pioneer Labs.
 
 ## 1. Overview
