@@ -6,6 +6,8 @@
 
 **Context:** Proposed analysis workflow for high-throughput functional genomics screens (e.g., CRISPR or TnSeq) at Pioneer Labs.
 
+![Functional Genomics Pipeline Diagram](pipeline_diagram.svg)
+
 ## 1. Overview
 
 **Goal:** To systematically process raw Next-Generation Sequencing (NGS) data from functional genomics screens, identify genetic elements (e.g., guide RNAs, transposon insertions) conferring a desired phenotype, and generate a prioritized list of candidate genes for further investigation and validation.
