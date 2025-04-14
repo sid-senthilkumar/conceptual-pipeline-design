@@ -6,7 +6,7 @@
 
 **Context:** Proposed analysis workflow for high-throughput functional genomics screens (e.g., CRISPR or TnSeq) at Pioneer Labs.
 
-![Functional Genomics Pipeline Diagram](pipeline_diagram.svg)
+![Functional Genomics Pipeline Diagram](pipeline-diagram.svg)
 
 ## 1. Overview
 
